@@ -49,7 +49,7 @@ solo quiero hacer cosas que hagan el mundo un poco mejor."* ✨
 ## 🔥 Proyectos Destacados
 
 ### 💻 [calculadoraJavadoc](https://github.com/SaraHervas/calculadoraJavadoc)
-Calculadora básica en Java con documentación Javadoc. Proyecto académico para practicar buenas prácticas y generación de documentación técnica.
+Calculadora básica en Java con documentación Javadoc. Proyecto académico para practicar y generar de documentación técnica.
 
 ## 📊 Estadísticas de GitHub
 
