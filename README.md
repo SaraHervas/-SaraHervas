@@ -5,7 +5,7 @@
 <p align="center">
   ☀️ Desarrolladora web con alma libre, combinando código limpio con brisa marina 🌊
 </p>
-...
+
 # 👋 ¡Hola! Bienvenid@ a mi perfil 🦋
 
 Hola 😊, mi nombre es Sara.  
