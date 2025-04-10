@@ -14,7 +14,7 @@ Soy customer success, ubicada en Valencia (España).
 ## 🌸 Sobre mí
 
 Me encanta combinar lo técnico con lo creativo:  
-crear experiencias limpias, accesibles y con personalidad.  
+Crear experiencias limpias, accesibles y con personalidad.  
 Vengo del mundo del cuidado y el bienestar, y eso se nota en mi forma de trabajar:  
 **cercanía, sensibilidad y flow** en todo lo que hago.
 
@@ -61,21 +61,6 @@ Calculadora básica en Java con documentación Javadoc. Proyecto académico para
 
 📧 [Email](mailto:sara.devweb@gmail.com)  
 🌐 [Portafolio web](https://SaraHervas.github.io)
-
-
-## 🌸 Sobre mí
-
-Me encanta combinar lo técnico con lo creativo:  
-crear experiencias limpias, accesibles y con personalidad.  
-Vengo del mundo del cuidado y el bienestar, y eso se nota en mi forma de trabajar:  
-**cercanía, sensibilidad y flow** en todo lo que hago.
-
-Estoy en constante formación, ahora mismo cursando el ciclo superior de Desarrollo de Aplicaciones Web.  
-Trabajo a jornada completa, estudio a las 5 de la mañana, y aún así, ¡no pierdo la sonrisa ni las ganas de crear! 💪💻🌈
-
-> *"No quiero ser la mejor programadora del mundo,  
-solo quiero hacer cosas que hagan el mundo un poco mejor."* ✨
-
 
 ## 💡 Fun Fact
 
