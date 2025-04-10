@@ -81,4 +81,4 @@ solo quiero hacer cosas que hagan el mundo un poco mejor."* ✨
 ✨ Siempre tengo una libreta cerca para apuntar ideas locas (aunque luego no las entienda).  
 🎧 Mi código rinde más si escucho música épica o indie-folk.  
 🐱 Si me ves en modo concentración, seguro tengo un gato en las piernas y café en la mano.  
-![image](https://github.com/user-attachments/assets/3e9a2c0b-8c50-4b63-9310-0d80732f8257)
+
