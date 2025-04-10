@@ -60,7 +60,8 @@ Calculadora básica en Java con documentación Javadoc. Proyecto académico para
 ## 📫 Contacto
 
 📧 [Email](mailto:sara.devweb@gmail.com)  
-🌐 Portafolio (en construcción)  
+🌐 [Portafolio web](https://SaraHervas.github.io)
+
 
 ## 🌸 Sobre mí
 
